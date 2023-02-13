@@ -38,6 +38,16 @@
 }
 
 /****************************/
+/* BELOW 1104px */
+/****************************/
+@media (max-width:69em) {
+    .last-service-imgs {
+        height: auto;
+    }
+}
+
+
+/****************************/
 /* BELOW 1008px */
 /****************************/
 @media (max-width:63em) {
@@ -298,7 +308,7 @@
     }
 
     .hero {
-        padding: 3.2rem 0;
+        padding: 3.2rem;
         max-width: 80rem;
         margin: auto;
     }
