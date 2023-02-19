@@ -49,7 +49,6 @@ HERO-SECTION-SHADOW:box-shadow: -4px 0px  0px 0px #f2456b, 0 16px 15px rgba(0, 0
 
 html {
     font-size: 62.5%;
-    overflow-x: hidden;
 }
 
 body {
