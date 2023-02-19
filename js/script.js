@@ -25,24 +25,6 @@ allLinks.forEach(function(link){
     })
 })
 
-// sticky navbar
-// const sectionHeroEl = document.querySelector('.section-hero');
-// const obs = new IntersectionObserver(function(entries)
-// {
-//     const ent = entries[0];
-//     console.log(ent);
-//     if(!ent.isIntersecting)
-//       document.querySelector(".header").classList.add("stiky");
-//     if(ent.isIntersecting)
-//       document.querySelector(".header").classList.remove("stiky");
-// },
-// {
-//     root:null,
-//     threshold:0,
-//     rootMargin:"-70px"
-// });
-// obs.observe(sectionHeroEl)
-
 // change navbar bg while scrolling 
 // change bg
 function changeNavBarBg() {
